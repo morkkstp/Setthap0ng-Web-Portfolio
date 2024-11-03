@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Sukhumvit";
+  src: url("./assets/SukhumvitSet-Text.ttf");
+}
+
+body {
+  font-family: "Sukhumvit", sans-serif;
+}
+
+.active {
+  color: #fad02c; /* Highlight color */
+}
