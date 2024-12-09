@@ -41,11 +41,10 @@ const ProgrammingSkill = () => {
                 <div className="-mt-2 md:mt-8">
                   <div className="flex justify-between mb-2">
                     <h1 className="text-xl md:text-2xl">HTML</h1>
-                    <h1 className="text-xl md:text-2xl text-fad02c">80%</h1>
+                    <h1 className="text-xl md:text-2xl text-fad02c">100%</h1>
                   </div>
                   <div className="relative">
-                    <div className="bg-white w-full h-6 md:h-8 rounded-lg absolute"></div>
-                    <div className="bg-fad02c w-[80%] h-6 md:h-8 rounded-l-lg absolute"></div>
+                    <div className="bg-fad02c w-[100%] h-6 md:h-8 rounded-lg absolute"></div>
                   </div>
                 </div>
               </div>
@@ -60,11 +59,11 @@ const ProgrammingSkill = () => {
                 <div className="-mt-2 md:mt-8">
                   <div className="flex justify-between mb-2">
                     <h1 className="text-2xl">CSS</h1>
-                    <h1 className="text-2xl text-fad02c">75%</h1>
+                    <h1 className="text-2xl text-fad02c">90%</h1>
                   </div>
                   <div className="relative">
                     <div className="bg-white w-full h-6 md:h-8 rounded-lg absolute"></div>
-                    <div className="bg-fad02c w-[75%] h-6 md:h-8 rounded-l-lg absolute"></div>
+                    <div className="bg-fad02c w-[90%] h-6 md:h-8 rounded-l-lg absolute"></div>
                   </div>
                 </div>
               </div>
@@ -79,11 +78,11 @@ const ProgrammingSkill = () => {
                 <div className="-mt-2 md:mt-8">
                   <div className="flex justify-between mb-2">
                     <h1 className="text-2xl">JS</h1>
-                    <h1 className="text-2xl text-fad02c">90%</h1>
+                    <h1 className="text-2xl text-fad02c">70%</h1>
                   </div>
                   <div className="relative">
                     <div className="bg-white w-full h-6 md:h-8 rounded-lg absolute"></div>
-                    <div className="bg-fad02c w-[90%] h-6 md:h-8 rounded-l-lg absolute"></div>
+                    <div className="bg-fad02c w-[70%] h-6 md:h-8 rounded-l-lg absolute"></div>
                   </div>
                 </div>
               </div>
